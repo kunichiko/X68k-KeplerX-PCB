@@ -1,0 +1,12 @@
+[submodule "lib/digikey-kicad-library"]
+	path = lib/digikey-kicad-library
+	url = https://github.com/Digi-Key/digikey-kicad-library.git
+[submodule "lib/kicad-gigalib"]
+	path = lib/kicad-gigalib
+	url = https://github.com/metacollin/kicad-gigalib.git
+[submodule "lib/X68k-kicad-library"]
+	path = lib/X68k-kicad-library
+	url = git@github.com:kunichiko/X68k-kicad-library.git
+[submodule "lib/savenlid-kicad-lib"]
+	path = lib/savenlid-kicad-lib
+	url = https://github.com/savenlid/kicad.git
