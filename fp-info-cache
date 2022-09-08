@@ -1,4 +1,4 @@
-27777672338306000
+27779334896747309
 Air_Coils_SML_NEOSID
 Neosid_Air-Coil_SML_1turn_HDM0131A
 Neosid, Air-Coil, SML, 1turn, HDM0131A,
@@ -117657,6 +117657,13 @@ XDCR_PLT133_T10W
 5
 x68000-ext
 x68000-ext-cardedge
+
+
+0
+100
+100
+x68000-ext
+x68000-ext-cardedge-keplerx
 
 
 0
