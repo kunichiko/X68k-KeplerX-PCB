@@ -1,4 +1,4 @@
-27779334896747309
+27792662513252325
 Air_Coils_SML_NEOSID
 Neosid_Air-Coil_SML_1turn_HDM0131A
 Neosid, Air-Coil, SML, 1turn, HDM0131A,
@@ -117628,6 +117628,41 @@ CS8421-CZZ
 20
 20
 x68000-ext
+Hirose-CR22-100D-2.54DS(70)
+
+
+0
+100
+100
+x68000-ext
+Kepler-chan-20x20
+
+
+0
+0
+0
+x68000-ext
+Kepler-chan-50x50
+
+
+0
+0
+0
+x68000-ext
+Kepler-chan-100x100
+
+
+0
+0
+0
+x68000-ext
+Kepler-chan-150x150
+
+
+0
+0
+0
+x68000-ext
 MODULE_P0082_BOTTOMMOUNT
 
 
@@ -117635,12 +117670,26 @@ MODULE_P0082_BOTTOMMOUNT
 84
 84
 x68000-ext
+Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles
+Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
+raspberry pi zero through hole
+0
+40
+40
+x68000-ext
 SOP65P640X120-20N
 tssop20_
 Integrated Circuit
 0
 20
 20
+x68000-ext
+SSOP-48_7.5x15.9mm_Pitch0.635mm
+SSOP48: plastic shrink small outline package; 48 leads; body width 7.5 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot370-1_po.pdf)
+SSOP 0.635
+0
+48
+48
 x68000-ext
 WM8804GEDS&slash_RV
 
@@ -117664,6 +117713,13 @@ x68000-ext-cardedge
 100
 x68000-ext
 x68000-ext-cardedge-keplerx
+
+
+0
+100
+100
+x68000-ext
+x68000-ext-cardedge-long
 
 
 0
