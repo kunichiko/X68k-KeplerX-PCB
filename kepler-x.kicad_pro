@@ -57,7 +57,8 @@
       ],
       "drc_exclusions": [
         "courtyards_overlap|154545842|176100001|702b7d56-bdc9-4fa3-b739-2c76543116fb|9483db4f-e29c-43e2-aad6-020dd512b4d1",
-        "courtyards_overlap|168417422|176100001|1c2f50da-2cac-41ca-b0e0-5422bfe77d1e|702b7d56-bdc9-4fa3-b739-2c76543116fb"
+        "courtyards_overlap|168417422|176100001|1c2f50da-2cac-41ca-b0e0-5422bfe77d1e|702b7d56-bdc9-4fa3-b739-2c76543116fb",
+        "courtyards_overlap|168417422|176100001|702b7d56-bdc9-4fa3-b739-2c76543116fb|1c2f50da-2cac-41ca-b0e0-5422bfe77d1e"
       ],
       "meta": {
         "version": 2
