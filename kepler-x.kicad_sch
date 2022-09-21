@@ -5390,6 +5390,7 @@
     )
   )
 
+
   (junction (at 154.94 234.95) (diameter 0) (color 0 0 0 0)
     (uuid 008e4199-bd96-4fc7-96d3-9f43729fa2f9)
   )
@@ -6873,10 +6874,6 @@
   (bus_entry (at 440.69 129.54) (size -2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid c7082c4d-70de-42ec-84fe-2f21f6d6bc62)
-  )
-  (bus_entry (at 313.69 50.8) (size 2.54 2.54)
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid c7124741-7eaa-4824-b2d8-a42c171a8c86)
   )
   (bus_entry (at 88.9 300.99) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
