@@ -1,4 +1,4 @@
-27797655048006022
+27800982833920907
 Air_Coils_SML_NEOSID
 Neosid_Air-Coil_SML_1turn_HDM0131A
 Neosid, Air-Coil, SML, 1turn, HDM0131A,
@@ -117711,6 +117711,20 @@ SSOP 0.635
 0
 48
 48
+x68000-ext
+TSSOP-20_4.4x6.5mm_Pitch0.65mm
+20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+20
+20
+x68000-ext
+VSSOP-20_3x5mm_P0.5mm
+VSSOP, 10 Pin (http://www.ti.com/lit/ds/symlink/ads1115.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+VSSOP SO
+0
+20
+20
 x68000-ext
 WM8804GEDS&slash_RV
 
