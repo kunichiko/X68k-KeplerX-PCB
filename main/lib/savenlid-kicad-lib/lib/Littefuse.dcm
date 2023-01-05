@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0160005.MR
+D Fuse holder nano2 5A
+K Fuse holder nano2 5A
+$ENDCMP
+#
+$CMP 0456040.DR
+D Fuse holder nano2 5A
+K Fuse holder nano2 5A
+$ENDCMP
+#
+$CMP 64900001039
+D Fuse holder PC MOUNT 5 X 20 MM
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3825C08
+D Mounting Hole 3.2 x 6.4 with vias
+$ENDCMP
+#
+$CMP TH_RD_3.2X6.4_VIAS
+D Mounting Hole 3.2 x 6.4 with vias
+$ENDCMP
+#
+#End Doc Library

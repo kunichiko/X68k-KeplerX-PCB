@@ -1,0 +1,49 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1339BU+
+D Real Time Clock RTC/TCMO/MEMS
+$ENDCMP
+#
+$CMP DS2423P+
+D 4kbit 1-Wire RAM with Counter
+$ENDCMP
+#
+$CMP DS2482S-100+
+D I/O Controller Interface IC SINGLE-CHN 1-W DR W LVL
+$ENDCMP
+#
+$CMP DS2484R+T
+D I/O Controller Interface IC SINGLE-CHN 1-W DR W LVL
+$ENDCMP
+#
+$CMP DS28E17Q+
+D 1-Wire-to-I2C Master Bridge
+$ENDCMP
+#
+$CMP DS3232MZ+
+D Real Time Clock RTC/TCMO/MEMS
+$ENDCMP
+#
+$CMP MAX14933ASE+
+D Digital Isolators 2 channel, each bidirectional, 2Mbps, 2.5kVrms
+K Digital Isolators 2 channel, each bidirectional, 2Mbps, 2.5kVrms
+$ENDCMP
+#
+$CMP MAX15032ATA+
+D 500KHz 36V Output, 600mW PWM Step-up
+K Step-Up
+$ENDCMP
+#
+$CMP MAX2870ETJ+
+D 23.5MHz to 6000MHz Fractional/Integer-N Synthesizer/VCO
+$ENDCMP
+#
+$CMP MAX2871ETJ+
+D 23.5MHz to 6000MHz Fractional/Integer-N Synthesizer/VCO
+$ENDCMP
+#
+$CMP MAX7375AXR805-T
+D 8Mhz Silicon Oscillator
+$ENDCMP
+#
+#End Doc Library

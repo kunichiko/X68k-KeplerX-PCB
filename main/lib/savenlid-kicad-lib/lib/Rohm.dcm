@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RB160VAM-60TR
+D 1A 60V Schottky Barrier Diode
+$ENDCMP
+#
+$CMP RBE05SM20AT2R
+D 1A 20V Schottky Barrier Diode
+$ENDCMP
+#
+#End Doc Library

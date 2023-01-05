@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KSS221GLFS
+D CK-Components Tactile Switch
+K CK-Components Tactile Switch
+$ENDCMP
+#
+$CMP PTS530GG065SMTR
+D CK-Components Tactile Switch
+K CK-Components Tactile Switch
+$ENDCMP
+#
+#End Doc Library

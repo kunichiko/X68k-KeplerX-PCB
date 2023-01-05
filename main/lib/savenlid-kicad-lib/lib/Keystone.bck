@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7808
+D 30A M5 screw connector
+K 30A M5 screw connector
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+#End Doc Library

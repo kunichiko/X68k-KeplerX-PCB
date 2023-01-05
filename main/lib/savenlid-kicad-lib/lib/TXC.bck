@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7XZ3200005
+D Crystals 32.768KHz 1.8V -40C +85C
+K Crystals 32.768KHz 1.8V -40C +85C
+$ENDCMP
+#
+$CMP ASDMB-12.000MHZ-LC-T
+D Osc 12MHz LVDS 1.8->3.3V 2.5x2mm 50ppm
+K Osc 12MHz LVDS 1.8->3.3V 2.5x2mm 50ppm
+$ENDCMP
+#
+#End Doc Library

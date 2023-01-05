@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3550LP14A300T
+D 3.5 GHz Low Pass Filter
+$ENDCMP
+#
+$CMP 5515LP15A730E
+D 5.5 GHz Low Pass Filter
+$ENDCMP
+#
+#End Doc Library

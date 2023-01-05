@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MIC2039AYM6-TR
+D 2.5A Power Switch, with current limit
+$ENDCMP
+#
+$CMP MIC2548-1YMM
+D 1.5A current limit switch
+$ENDCMP
+#
+$CMP MIC3385YHL
+D 8Mhz Inductorless Buck Regulator with LDO standby mode
+$ENDCMP
+#
+$CMP MIC5318YMT-TR
+D 300mA ULDO
+$ENDCMP
+#
+$CMP MIC5366-1.8YC5-TR
+D 150mA LDO
+$ENDCMP
+#
+#End Doc Library

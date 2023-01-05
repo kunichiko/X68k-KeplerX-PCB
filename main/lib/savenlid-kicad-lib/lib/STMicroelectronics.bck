@@ -1,0 +1,118 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT30-09P6FILM
+D Dual Signal Schottky Diode
+$ENDCMP
+#
+$CMP L7980TR
+D 2A step-down switching regulator
+$ENDCMP
+#
+$CMP L7981TR
+D 3 A step-down switching regulator
+$ENDCMP
+#
+$CMP LD29150DT18R
+D 1.5 A, very low drop voltage regulators
+K 1.5 A, very low drop voltage regulators
+$ENDCMP
+#
+$CMP LD29150DT25R
+D 1.5 A, very low drop voltage regulators
+K 1.5 A, very low drop voltage regulators
+$ENDCMP
+#
+$CMP LD29150DT33R
+D 1.5 A, very low drop voltage regulators
+K 1.5 A, very low drop voltage regulators
+$ENDCMP
+#
+$CMP LD29150DT50R
+D 1.5 A, very low drop voltage regulators
+K 1.5 A, very low drop voltage regulators
+$ENDCMP
+#
+$CMP LSM6DSMTR
+D 3d accelerometer 3d gyroscope
+$ENDCMP
+#
+$CMP M95512-DFMC6xG
+D Enhanced single channel power switches
+$ENDCMP
+#
+$CMP SMA6T47AY
+D TVS 56V 1500W unidirctional
+$ENDCMP
+#
+$CMP SMBJ5352B-TP
+D DO214AA Zener diode  15V 5W
+K DO214AA Zener diode  15V 5W
+$ENDCMP
+#
+$CMP STM32F205RGY6TR
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STM32F207IGH6
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STM32H743VIH
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STM32H743XI
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STM32L011K4U3
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STM32L432KCU6
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STM32L476JGY7TR
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STM32L4A6AGI6
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STM32L4A6VGI6
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STM32L4A6VI6
+D ARM®-based 32-bit MCU, 150DMIPs
+$ENDCMP
+#
+$CMP STMPS2161STR
+D Enhanced single channel power switches
+$ENDCMP
+#
+$CMP STPS1L30M
+D SMC Schottky Diode
+K SMC Schottky Diode
+$ENDCMP
+#
+$CMP STPS20M60SG-TR
+D Power Schottky rectifier  20A / 60V
+$ENDCMP
+#
+$CMP STPS5L60S
+D SMC Schottky Diode
+K SMC Schottky Diode
+$ENDCMP
+#
+$CMP TS3021IYLT
+D Rail-to-rail 1.8 V high-speed comparator
+$ENDCMP
+#
+$CMP TSV911AILT
+D single rail-to-rail input/output 8 MHz op
+$ENDCMP
+#
+#End Doc Library

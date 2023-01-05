@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HIP2101EIBZ
+D 100V, 1A/2A Peak, 1/2 Bridge Driver with 7V UVLO
+$ENDCMP
+#
+$CMP HIP2103FRTAAZ
+D 60V, 1A/2A Peak, 1/2 Bridge Driver with 4V UVLO
+K 60V, 1A/2A Peak, 1/2 Bridge Driver with 4V UVLO
+$ENDCMP
+#
+#End Doc Library

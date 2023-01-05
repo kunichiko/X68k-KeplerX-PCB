@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCR1J560MCL1GS
+D 56u  65VDC  Polymer  20%
+$ENDCMP
+#
+$CMP PCR1V221MCL1GS
+D 220u  35VDC  Polymer  20%
+$ENDCMP
+#
+$CMP RPS1J560MCN1GS
+D 56u  65VDC  Polymer  20%    10dia x 12.4mm
+$ENDCMP
+#
+#End Doc Library

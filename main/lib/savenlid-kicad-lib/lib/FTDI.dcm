@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT2232D-TRAY
+D FT2232D Dual USB to Serial UART/FIFO IC
+$ENDCMP
+#
+#End Doc Library

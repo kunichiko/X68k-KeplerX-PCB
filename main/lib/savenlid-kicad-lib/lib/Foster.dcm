@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MLT-03GC
+D Micro Acoustic Transducer
+$ENDCMP
+#
+$CMP RK73H1ETTP1802F
+D 0402 18Kohm 1% KOA
+K 0402 18Kohm
+$ENDCMP
+#
+#End Doc Library

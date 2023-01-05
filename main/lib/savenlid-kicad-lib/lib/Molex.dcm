@@ -1,0 +1,96 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0731010401
+D BNC 75ohm 4Ghz  Angle, TH
+K BNC 75ohm 4Ghz  Angle, TH
+$ENDCMP
+#
+$CMP 105017-0001
+D USB 2.0 Micro B Connector
+K USB 2.0 Micro B Connector
+$ENDCMP
+#
+$CMP 170673-1046
+D 46 pin double sided card edge connector 0.8mm pitch
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 170673-1046_PCB
+D 46 pin double sided card edge connector 0.8mm pitch
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 47589-0001
+D USB 2.0 Micro AB Connector
+K USB 2.0 Micro AB Connector
+$ENDCMP
+#
+$CMP 503548-0620
+D 6pin 0.40mm SlimStack™ Board-to-Board, Jack
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 503548-1820
+D 18pin 0.40mm SlimStack™ Board-to-Board, Jack
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 503552-1620
+D 16pin 0.40mm SlimStack™ Board-to-Board, Plug
+K 0.40mm SlimStack™ Board-to-Board, Plug
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 503552-1820
+D 18pin 0.40mm SlimStack™ Board-to-Board, Plug
+K 0.40mm SlimStack™ Board-to-Board, Plug
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 51281-1094
+D FFC/FPC Connector, Right-Angle 10p
+K FFC/FPC Connector, Right-Angle 10p
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 52271-0679
+D FFC/FPC Connector, Right-Angle 7p
+K FFC/FPC Connector, Right-Angle 7p
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 52885-0274
+D 18pin 0.40mm SlimStack™ Board-to-Board, Plug
+K 0.40mm SlimStack™ Board-to-Board, Plug
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 52885-0274_COVERLAY
+D 18pin 0.40mm SlimStack™ Board-to-Board, Plug
+K 0.40mm SlimStack™ Board-to-Board, Plug
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 55091-0274
+D 18pin 0.40mm SlimStack™ Board-to-Board, Plug
+K 0.40mm SlimStack™ Board-to-Board, Plug
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 55560-0168
+D 16pin 0.50mm SlimStack™ Board-to-Board, Plug
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 78171-0005
+D FFC/FPC Connector, Right-Angle 7p
+K FFC/FPC Connector, Right-Angle 7p
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 95501-6449
+D Modular jack, right angle  4/4
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+#End Doc Library

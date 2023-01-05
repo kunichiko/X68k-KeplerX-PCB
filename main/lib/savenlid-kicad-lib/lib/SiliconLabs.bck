@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 511BBA148M500AAG
+D SiLabs Osc 148.5Mhz LVDS 3.3V 50ppm 7x5mm
+K SiLabs Osc 148.5Mhz LVDS 3.3V 50ppm 7x5mm
+$ENDCMP
+#
+$CMP 511BBA148M500BAG
+D SiLabs Osc 148.5Mhz LVDS 25ppm 5x3.2mm 3.3 LVDS
+K SiLabs Osc 148.5Mhz LVDS 50ppm 5x3.2mm 3.3 LVDS
+$ENDCMP
+#
+$CMP 511FBA148M500BAG
+D SiLabs Osc 148.5Mhz LVDS 50ppm 5x3.2mm 2.5 LVDS
+K SiLabs Osc 148.5Mhz LVDS 50ppm 5x3.2mm 2.5 LVDS
+$ENDCMP
+#
+$CMP Si1133-AA00-GMR
+D Ambient Light Sensors UV NDEX/AMBIENT Light Sensor IC
+$ENDCMP
+#
+$CMP Si5324D-C-GM
+D SiLabs Osc 148.5Mhz LVDS 50ppm 5x3.2mm 2.5 LVDS
+K SiLabs Osc 148.5Mhz LVDS 50ppm 5x3.2mm 2.5 LVDS
+$ENDCMP
+#
+$CMP Si8640AB-B-IS1
+D Digital Isolators Quad Ch 1.0kV Isltr 1M 4/0 NB SOIC16
+K Digital Isolators Quad Ch 1.0kV Isltr 1M 4/0 NB SOIC16
+$ENDCMP
+#
+$CMP Si8662BB-B-IS1
+D Digital Isolators 6-ch Ch 1.0kV Isltr 150M 6/2 NB SOIC16
+K Digital Isolators 6-ch Ch 1.0kV Isltr 150M 6/2 NB SOIC16
+$ENDCMP
+#
+#End Doc Library

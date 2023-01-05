@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DM3BT-DSF-PEJS
+D Micro SD Push-Push Reverse
+K Micro SD Push-Push Reverse
+$ENDCMP
+#
+$CMP DM3D-SF
+D Micro SD
+K Micro SD
+$ENDCMP
+#
+$CMP TM2REA-0606(50)
+D Modular Connectors / Ethernet Connectors RJ-11 F 1x6 POS
+$ENDCMP
+#
+$CMP TM2REA-1818(50)
+D Modular Connectors / Ethernet Connectors RJ-11 F 18 POS
+K Modular Connectors / Ethernet Connectors RJ-11 F 18 POS
+$ENDCMP
+#
+$CMP ZX62D-B-5PA8
+D EOL USB 2.0 Connector
+K EOL USB 2.0 Connector
+$ENDCMP
+#
+#End Doc Library

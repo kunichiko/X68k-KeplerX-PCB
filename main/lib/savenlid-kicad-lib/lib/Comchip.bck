@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDBQR70
+D 0402 Scottky diode 70mA 70V 0.1uA
+K 0402 Scottky diode 70mA 70V 0.1uA
+$ENDCMP
+#
+#End Doc Library

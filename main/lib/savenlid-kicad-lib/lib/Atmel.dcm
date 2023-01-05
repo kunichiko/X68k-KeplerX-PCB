@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT30TS75A-XM8M-B
+D Board Mount Temp Sensor 1-ch I2C - 3.4MHz Ind Hi-Temp
+$ENDCMP
+#
+$CMP ATSAMD09C13A-SSUT
+D ARM Microcontrollers - MCU 8KB Flash 4KB SRAM GPIO 12 14-pin
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+$CMP ATSAMD11D14A-MUT
+D ARM Microcontrollers - MCU IC MCU 32 BIT 16KB Flash 24QFN
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+$CMP ATSAMD11D14A-SSUT
+D ARM Microcontrollers - MCU IC MCU 32 BIT 16KB Flash 20SOIC
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+$CMP ATSAMD21J18A-MU
+D ARM M0+ 256KB 32KB 64QFN GRN 1.6-3.6V 48MHz
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+$CMP ATTINY10-TSHR
+D SOT-23-6, 512B Flash, 32B SRAM, No EEPROM
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+$CMP ATTINY4-TSHR
+D SOT-23-6, 512B Flash, 32B SRAM, No EEPROM
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+$CMP ATTINY5-TSHR
+D SOT-23-6, 512B Flash, 32B SRAM, No EEPROM
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+$CMP ATTINY85V-10SUR
+D SOT-23-6, 512B Flash, 32B SRAM, No EEPROM
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+$CMP ATTINY9-TSHR
+D SOT-23-6, 512B Flash, 32B SRAM, No EEPROM
+K AVR 8bit Microcontroller tinyAVR
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+#End Doc Library

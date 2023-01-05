@@ -1,0 +1,107 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHCT1G125GF
+D Translation - Voltage Levels Dual supply translting transcvr
+$ENDCMP
+#
+$CMP 74AHCT1G125GW
+D Translation - Voltage Levels Dual supply translting transcvr
+$ENDCMP
+#
+$CMP 74AHCT1G14GW-Q100
+D Translation - Voltage Levels Dual supply translting transcvr
+$ENDCMP
+#
+$CMP 74HC1G00GV_125
+D Single gate Nand
+$ENDCMP
+#
+$CMP 74HC74BQ
+D Johnson decade counter with 10 decoded outputs
+$ENDCMP
+#
+$CMP 74HCT4017BQ,115
+D Johnson decade counter with 10 decoded outputs
+$ENDCMP
+#
+$CMP 74LVC1G126GF,132
+D Bus buffer/line driver; 3-state
+$ENDCMP
+#
+$CMP IMX6DQPAEC
+K nicholas@savenlid.se
+$ENDCMP
+#
+$CMP LPC1549JBD48
+D 32-bit ARM Cortex-M3 microcontroller 256K FLASH, 36K SRAM
+K FS USB, CAN, RTC, SPI, USART, I2C
+$ENDCMP
+#
+$CMP LPC1549JBD64QL
+D 32-bit ARM Cortex-M3 microcontroller 256K FLASH, 36K SRAM
+K FS USB, CAN, RTC, SPI, USART, I2C
+$ENDCMP
+#
+$CMP LPC4367JET256E
+D 32-bit ARM Cortex-M4/M0 MCU
+$ENDCMP
+#
+$CMP MC56F8367VVF
+D 16 bit DSP Bga
+$ENDCMP
+#
+$CMP MCIMX7D3EVK10SD
+D iMX7
+K nicholas@savenlid.se
+$ENDCMP
+#
+$CMP MCIMX7D7DVK10SD
+D iMX7
+K nicholas@savenlid.se
+$ENDCMP
+#
+$CMP NTS0104PW-Q100J
+D Translation - Voltage Levels Dual supply translting transcvr
+$ENDCMP
+#
+$CMP PBSS4140DPN_115
+D 40 V low VCEsat NPN + PNP transistor
+$ENDCMP
+#
+$CMP PCA9548ABS_118
+D 8-channel I2C-bus switch with reset
+$ENDCMP
+#
+$CMP PMBD7000
+D Double high-speed switching diode
+$ENDCMP
+#
+$CMP PMEG060V100EPD
+D Full NFC Forum-compliant controller with integrated firmware
+K 60 V, 10 A low VF MEGA Schottky barrier rectifier
+$ENDCMP
+#
+$CMP PN7150_ANT
+D Bus buffer/line driver; 3-state
+$ENDCMP
+#
+$CMP PRTR5V0U2X_215
+D ESD Suppressors 5.5V DUAL R-R ESD ULTRA LOW CAP
+$ENDCMP
+#
+$CMP SPC5674FF3MVY3
+D 516 package
+K 516pin
+$ENDCMP
+#
+$CMP SPC5777CCK3MME3
+D 416 package
+K 416pin
+$ENDCMP
+#
+$CMP SPC5777CCK3MMO3
+D 516 package
+K 516pin
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,49 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BR-1225_HCN
+D Coin Cell Battery 3V 48mAh, 2 Pin Flat Mount
+$ENDCMP
+#
+$CMP BR1225A_FAN
+D Coin Cell Battery 3V 48mAh, 2 Pin Flat Mount
+$ENDCMP
+#
+$CMP CPH3225A
+D Coin Cell Battery 3V 48mAh, 2 Pin Flat Mount
+$ENDCMP
+#
+$CMP ECW-F4105JL
+D Polypropylene film capacitor 400VDC  1u 5%
+$ENDCMP
+#
+$CMP ECW-F4474JL
+D Polypropylene film capacitor 400VDC  470nf 5%
+$ENDCMP
+#
+$CMP EEV-EB2W2R2Q
+D Aluminum Electrolytic  450VDC  2.2u  20%
+$ENDCMP
+#
+$CMP ERJ-B3CFR10V
+D 0508 0.1ohm 1% wide-terminal
+$ENDCMP
+#
+$CMP ERJ-B3CFR15V
+D 0508  0.15ohm 1% 0.33W
+$ENDCMP
+#
+$CMP ERJ-P6WF1004V
+D SMD 0805 1Mohms 1% Anti-Surge AEC-Q200
+K SMD 0805 1Mohms 1% Anti-Surge AEC-Q200
+$ENDCMP
+#
+$CMP ERJ-S6SJR15V
+D 0805 0.15ohm 5% Anti-Sulfur
+$ENDCMP
+#
+$CMP EVP-AWBD2A
+D Tactile Switch SPST-NO Top Actuated Surface Mount
+K Switch
+$ENDCMP
+#
+#End Doc Library

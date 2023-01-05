@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 450VXH100MEFCSN22X25
+D 100u  450VDC  Aluminium  20%
+$ENDCMP
+#
+$CMP 50YXF10MEFC5X11
+D 10u  50VDC  Electrolytic  20%
+$ENDCMP
+#
+$CMP PCR1V221MCL1GS
+D 220u  35VDC  Polymer  20%
+$ENDCMP
+#
+#End Doc Library

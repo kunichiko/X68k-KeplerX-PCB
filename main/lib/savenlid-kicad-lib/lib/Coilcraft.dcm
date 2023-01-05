@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AGP2923-153KL
+D Transformer, 1 primary, 2 secondary
+$ENDCMP
+#
+$CMP MSS5131-103MLx
+D Shielded Power Inductor 10uH
+$ENDCMP
+#
+$CMP SER1390-473MLB
+D Shielded Power Inductor 47uH
+$ENDCMP
+#
+$CMP XFL4020-222ME
+D Shielded Power Inductor
+$ENDCMP
+#
+$CMP XFL4030-472ME
+D Shielded Power Inductor
+$ENDCMP
+#
+#End Doc Library

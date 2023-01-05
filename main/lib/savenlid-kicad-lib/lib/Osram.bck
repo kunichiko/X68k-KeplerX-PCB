@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LB-VH9G-N1OO-35-1-Z
+D Blue 0402 Led 5mA 2.85V
+$ENDCMP
+#
+$CMP LR-VH9F-P2R1-1-Z
+D 0402 Red 5mA 2V
+$ENDCMP
+#
+$CMP LT_QH9G-Q2OO-25-2Z4Y
+D Osram LED 0402 Green
+K 0402 LED Green
+$ENDCMP
+#
+#End Doc Library

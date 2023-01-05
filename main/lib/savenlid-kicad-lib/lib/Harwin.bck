@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M50-3500542
+D Vertical 2x5  1,27mm header
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP M50-3500542_atmel
+D Right angle 2x5 pin header 0.05" atmel pinout
+$ENDCMP
+#
+$CMP M50-3900542
+D Right angle 2x5 pin header 0.05"
+$ENDCMP
+#
+$CMP M50-3900542_atmel
+D Right angle 2x5 pin header 0.05" atmel pinout
+$ENDCMP
+#
+#End Doc Library

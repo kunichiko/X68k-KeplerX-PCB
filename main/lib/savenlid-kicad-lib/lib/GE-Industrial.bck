@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PDT012A0X3-SRDZ
+D 12A Digital step-down 3.3->14V input
+K 12A Step-down
+$ENDCMP
+#
+$CMP PNVT012A0X3-SRZ
+D 12A Analog Pico SlimLynx  3 ->14V input
+K 12A Step-down
+$ENDCMP
+#
+$CMP PVX012A0X3-SRZ
+D 12A step-down 3 ->14V input
+K 12A Step-down
+$ENDCMP
+#
+#End Doc Library

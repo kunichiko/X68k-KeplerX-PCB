@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK810L-TP
+D DO-214AB Scottky diode 8A 70V 
+K DO-214AB Scottky diode 8A 70V 
+$ENDCMP
+#
+$CMP SMBJ5352B-TP
+D DO214AA Zener diode  15V 5W
+K DO214AA Zener diode  15V 5W
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D2HW-A201D
+D PIN PLUNGER PCB. TH
+$ENDCMP
+#
+$CMP XF2M-4015-1A
+D 40pin FPC/FFC thickness of 0.3 mm, rotary lock
+$ENDCMP
+#
+$CMP XF2M-4015-1A_For_LCD_Display
+D 40pin FPC/FFC thickness of 0.3 mm, rotary lock
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,48 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 50YXF10MEFC5X11
+#
+DEF ~50YXF10MEFC5X11 C 0 40 N N 1 F N
+F0 "C" 0 200 60 H V C CNN
+F1 "50YXF10MEFC5X11" 0 100 39 H I C CNN
+F2 "Nichicon:PCR" -100 100 60 H I C CNN
+F3 "" 0 200 60 H V C CNN
+F4 "Rubycon" 50 100 60 H I C CNN "Manufacturer"
+F5 "10u" -200 200 60 H V C CNN "Value2"
+F6 "5x11" 250 200 60 H V C CNN "Size"
+F7 "20%" 50 100 60 H I C CNN "Tolerance"
+F8 "Electrolyte" -50 100 60 H I C CNN "Dielectric"
+F9 "50VDC" 100 300 60 H V C CNN "Rating"
+DRAW
+T 0 -65 48 60 0 0 0 + Normal 0 C C
+P 2 0 1 0 -25 -50 -25 50 N
+P 2 0 1 0 25 50 25 -50 N
+X A A -100 0 75 R 50 50 1 1 P
+X C C 100 0 75 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PCR1V221MCL1GS
+#
+DEF ~PCR1V221MCL1GS C 0 40 N N 1 F N
+F0 "C" 0 200 60 H V C CNN
+F1 "PCR1V221MCL1GS" 0 100 39 H I C CNN
+F2 "Nichicon:PCR" -100 100 60 H I C CNN
+F3 "" 0 200 60 H V C CNN
+F4 "Nichicon" 50 100 60 H I C CNN "Manufacturer"
+F5 "220u" -200 200 60 H V C CNN "Value2"
+F6 "8x12.5" 250 200 60 H V C CNN "Size"
+F7 "20%" 50 100 60 H I C CNN "Tolerance"
+F8 "Polymer" -50 100 60 H I C CNN "Dielectric"
+F9 "35VDC" 100 300 60 H V C CNN "Rating"
+DRAW
+T 0 75 50 60 0 0 0 + Normal 0 C C
+P 2 0 1 0 -25 -50 -25 50 N
+P 2 0 1 0 25 50 25 -50 N
+X A A 100 0 75 L 50 50 1 1 P
+X C C -100 0 75 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

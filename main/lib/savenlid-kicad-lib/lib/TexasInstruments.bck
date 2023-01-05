@@ -1,0 +1,325 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS7830IPWR
+D 8-Bit, 8-Channel, ADC with I2C
+$ENDCMP
+#
+$CMP BQ76200PWR
+D Overvoltage Protection for 2 to 5-Series Li-Ion
+$ENDCMP
+#
+$CMP BQ7692000PWR
+D Overvoltage Protection for 2 to 5-Series Li-Ion
+$ENDCMP
+#
+$CMP CSD18540Q5B
+D Optimos-3 80V 4.7m 100A
+$ENDCMP
+#
+$CMP CSD88599Q5DCT
+D Optimos-3 80V 4.7m 100A
+$ENDCMP
+#
+$CMP DAC8574IPW
+D QUAD, 16-BIT DAC with I2C interface
+$ENDCMP
+#
+$CMP DP83848CVV_NOPB
+D Single Port 10/100 Mb/s Ethernet
+$ENDCMP
+#
+$CMP DRV5032FBDBZR
+D Hall sensor
+$ENDCMP
+#
+$CMP DRV5032FDDMRT
+D Hall sensor
+$ENDCMP
+#
+$CMP DRV8332DKDR
+D Three-Phase PWM Motor Driver
+K Three-Phase PWM Motor Driver
+$ENDCMP
+#
+$CMP INA125UA
+D INSTRUMENTATION AMPLIFIER
+$ENDCMP
+#
+$CMP LM2736XMK_NOPB
+D +3.3 Volt 250-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+K +3.3V 250mA
+$ENDCMP
+#
+$CMP LM2757
+D Capacitor boost regulator
+K Capacitor boost regulator
+$ENDCMP
+#
+$CMP LM4040BIM3-2.5
+D Precision Micropower Shunt Voltage Reference
+$ENDCMP
+#
+$CMP LM46002AQPWPRQ1
+D  75V, 1.5A Step-Down
+$ENDCMP
+#
+$CMP LM5101BSD_NOPB
+D 100V, 1A/2A Peak, 1/2 Bridge Driver with 7V UVLO, TTL INPUT
+$ENDCMP
+#
+$CMP LM5575MHX_NOPB
+D  75V, 1.5A Step-Down
+$ENDCMP
+#
+$CMP LMR62014XMFX_NOPB
+D LMR62014 SIMPLE SWITCHER® 20Vout, 1.4A Step-Up Voltage Regulator in SOT-23
+$ENDCMP
+#
+$CMP LMV324ID
+D Quad Low-Voltage Rail-to-Rail Output Operational Amplifiers
+$ENDCMP
+#
+$CMP LMV712LD_NOPB
+D RRIO Dual OP-AMP with Independent Shutdown
+$ENDCMP
+#
+$CMP LMV7219M7_NOPB
+D 9 7-ns 2.7-V to 5-V Comparator
+$ENDCMP
+#
+$CMP LP2985-18DBVR
+D +1.8 Volt 150-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+$ENDCMP
+#
+$CMP LP2985-25DBVR
+D +2.5 Volt 150-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+K +2.5V 150mA
+$ENDCMP
+#
+$CMP LP2985-50DBVR
+D 150-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+$ENDCMP
+#
+$CMP LP2989AIM-5.0_NOPB
+D 500-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+$ENDCMP
+#
+$CMP LP2989AIMM-5.0_NOPB
+D 500-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+$ENDCMP
+#
+$CMP LP2992AILD-3.3_NOPB
+D 250-mA LDO  with Enable 16V in 5V out, SOT23-5
+$ENDCMP
+#
+$CMP LP2992AILD-5.0_NOPB
+D 250-mA LDO  with Enable 16V in 5V out, SOT23-5
+$ENDCMP
+#
+$CMP LP2992AIM5-2.5_NOPB
+D 250-mA LDO  with Enable 16V in 5V out, SOT23-5
+$ENDCMP
+#
+$CMP LP2992IM5-5.0_NOPB
+D 250-mA LDO  with Enable 16V in 5V out, SOT23-5
+$ENDCMP
+#
+$CMP LP5907MFX-3.3_NOPB
+D +3.3 Volt 250-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+K +3.3V 250mA
+$ENDCMP
+#
+$CMP LP5907MFX-4.5_NOPB
+D +4.5 Volt 250-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+K +4.5V 250mA
+$ENDCMP
+#
+$CMP LP5907QMFX-1.8Q1
+D Automotive 250-mA, Ultra-Low-Noise, Low-IQ LDO 1.8V SOT23-5
+$ENDCMP
+#
+$CMP LP5907QMFX-3.0Q1
+D Automotive 250-mA, Ultra-Low-Noise, Low-IQ LDO
+$ENDCMP
+#
+$CMP LP5907SNX-1.8_NOPB
+D +3.3 Volt 250-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+K +3.3V 250mA
+$ENDCMP
+#
+$CMP LP5907SNX-3.3_NOPB
+D +3.3 Volt 250-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+K +3.3V 250mA
+$ENDCMP
+#
+$CMP LP5912-3.3DRVR
+D LP5912 500-mA Low-Noise, Low-IQ LDO
+$ENDCMP
+#
+$CMP OPA2354AIDGK
+D RRIO Dual OP-AMP with Independent Shutdown
+$ENDCMP
+#
+$CMP SN74AHCT1G00DCK
+D 2 Input NAND GATE
+$ENDCMP
+#
+$CMP SN74AHCT1G125DCK
+D Single Bus Buffer Gate With 3-State Output
+$ENDCMP
+#
+$CMP SN74LV1T34DCK
+D Single Power Supply Single Buffer GATE CMOS Logic Level Shifter
+$ENDCMP
+#
+$CMP SN74LVC16373ADGGR
+D 16-Bit Transparent D-Type Latch With 3-State Outputs
+$ENDCMP
+#
+$CMP SN74LVC16373AZRDR
+D 16-Bit Transparent D-Type Latch With 3-State Outputs
+$ENDCMP
+#
+$CMP SN74LVC1G06DCK
+D Single Inverter Buffer/Driver With Open-Drain Output
+$ENDCMP
+#
+$CMP SN74LVC1G07DCK
+D Single Buffer/Driver With Open-Drain Output
+$ENDCMP
+#
+$CMP SN74LVC1G123DCUR
+D Single Retriggerable Monostable Multivibrator
+$ENDCMP
+#
+$CMP SN74LVC1G125DBVR
+D Single Bus Buffer Gate With 3-State Output
+$ENDCMP
+#
+$CMP SN74LVC1G125DCKR
+D Single Bus Buffer Gate With 3-State Output
+$ENDCMP
+#
+$CMP SN74LVC1G17DCK
+D Single Schmitt-Trigger Buffer
+$ENDCMP
+#
+$CMP SN74LVC1GU04YZVR
+D Single gate inverter 1.65 -> 5.65V
+$ENDCMP
+#
+$CMP SN74LVC2G08DCU
+D Dual 2-Input Positive-AND Gate
+$ENDCMP
+#
+$CMP SN74LVC2G241DCU
+D Dual Buffer and Driver With 3-State Outputs
+$ENDCMP
+#
+$CMP SN74LVC2G86DCU
+D Dual 2-Input Exclusive-OR Gate
+$ENDCMP
+#
+$CMP TCA9406DCUR
+D I2C Level Translator With 8kV ESD
+K I2C Level Translator With 8kV ESD
+$ENDCMP
+#
+$CMP TCA9555RTWR
+D 16-Bit I2C  I/O Expander with interrupt + configuration
+$ENDCMP
+#
+$CMP TL5209
+D 500-mA Low-noise Low-dropout Regulator With Shutdown
+$ENDCMP
+#
+$CMP TPA2005D1DRBR
+D RRIO Dual OP-AMP with Independent Shutdown
+$ENDCMP
+#
+$CMP TPD12S016PW
+D HDMI ESD Protection 12chan
+K HDMI ESD Protection 12chan
+$ENDCMP
+#
+$CMP TPD12S521
+D HDMI ESD Protection
+$ENDCMP
+#
+$CMP TPD1E05U06
+D HDMI  2.0 ESD Protection 1chan
+K HDMI 2.0 ESD Protection 1chan
+$ENDCMP
+#
+$CMP TPD4E004DRYR
+D 4-Channel ESD Solution for USB-HS/USB OTG/USB Charger Interface
+$ENDCMP
+#
+$CMP TPD4E02B04
+D HDMI  2.0 ESD Protection 4chan
+K HDMI 2.0 ESD Protection 4chan
+$ENDCMP
+#
+$CMP TPD4S012
+D 4-Channel ESD Solution for USB-HS/USB OTG/USB Charger Interface
+$ENDCMP
+#
+$CMP TPS54061DRB
+D TPS54061 Wide Input 60-V, 200-mA Synchronous Step-Down DC-DC
+$ENDCMP
+#
+$CMP TPS54560DDA
+D 4.5 V to 60 V Input, 5 A, Step Down
+K 4.5 V to 60 V Input, 5 A, Step Down
+$ENDCMP
+#
+$CMP TPS60151DRV
+D 5-V and 140-mA Charge Pump
+K 5-V and 140-mA Charge Pump
+$ENDCMP
+#
+$CMP TPS793475DBVR
+D +4.75 Volt 200-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+K +4.75V 200mA
+$ENDCMP
+#
+$CMP TPS793475DBVREP
+D +4.75 Volt 200-mA Low-Noise Low-Dropout Voltage Regulator With Shutdown
+K +4.75V 200mA
+$ENDCMP
+#
+$CMP TPS79801QDGNRQ1
+D 50 mA, 3 V to 50 V, Micropower, Low-Dropout Linear Regulator
+$ENDCMP
+#
+$CMP TPS79850QDGN
+D 50 mA, 3 V to 50 V, Micropower, Low-Dropout Linear Regulator
+$ENDCMP
+#
+$CMP TPS7A9101DSK
+D 1-A, High-Accuracy, Low-Noise LDO Voltage Regulator
+$ENDCMP
+#
+$CMP TPS7A9201DSK
+D 2-A, High-Accuracy, Low-Noise LDO Voltage Regulator
+$ENDCMP
+#
+$CMP TRF37A75IDSGR
+D 40-6000 MHz RF Gain Block
+$ENDCMP
+#
+$CMP TXS02612RTWR
+D Dual SD Card level translator/Mux
+K Dual SD Card level translator/Mux
+$ENDCMP
+#
+$CMP WL1837MOD
+D Wlan BLE module
+K Wlan BLE module
+$ENDCMP
+#
+$CMP bq771800DPJ
+D Overvoltage Protection for 2 to 5-Series Li-Ion
+$ENDCMP
+#
+#End Doc Library

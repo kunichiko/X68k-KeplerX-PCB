@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMD11D14A-MUT
+D ARM Microcontrollers - MCU IC MCU 32 BIT 16KB Flash 24QFN
+F http://www.atmel.com/images/atmel-8127-avr-8-bit-microcontroller-attiny4-attiny5-attiny9-attiny10_datasheet-summary.pdf
+$ENDCMP
+#
+#End Doc Library

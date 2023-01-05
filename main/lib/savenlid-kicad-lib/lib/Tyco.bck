@@ -1,0 +1,34 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1-1634508-0
+D BNC 75ohm 4Ghz  Angle, TH
+K BNC 75ohm 4Ghz  Angle, TH
+$ENDCMP
+#
+$CMP 2013978-2
+D HDMI C
+K HDMI C
+$ENDCMP
+#
+$CMP 4-1775099-1
+D FFC/FPC Connector, Right-Angle 7p
+K FFC/FPC Connector, Right-Angle 7p
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 4-1775099-1_BAT
+D FFC/FPC Connector, Right-Angle 7p
+K FFC/FPC Connector, Right-Angle 7p
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 5103308-8
+D 2x20 pin header 0.1"
+$ENDCMP
+#
+$CMP 640456-3
+D 3 pin header 0.1"
+K 3 pin header 0.1"
+$ENDCMP
+#
+#End Doc Library

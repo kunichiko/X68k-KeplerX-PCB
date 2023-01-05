@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HM2101NL
+D BMS Transformer choke
+$ENDCMP
+#
+$CMP J0006D01BNL
+D Pulse 10/100 RJ45 Eth Jack
+K Pulse 10/100 RJ45 Eth Jack
+$ENDCMP
+#
+$CMP PE-68386NL
+D SMT Gate Drive Transformers
+$ENDCMP
+#
+$CMP W3006
+D WLAN BLE Antenna
+K WLAN BLE Antenna
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AK-C-B28
+D Enclosure
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP EEA11
+D Enclosure
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP EEB3311
+D Enclosure
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+#End Doc Library

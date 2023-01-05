@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24LC32AT-I_OT
+D 32K I2C™ Serial EEPROM
+$ENDCMP
+#
+$CMP DSC1033DI2-008.0000
+D Osc 8Mhz 3.3V CMOS 3.2x2.5mm 25ppm
+$ENDCMP
+#
+$CMP EQCO30T5.2
+D HD/SDI Transmitter
+$ENDCMP
+#
+$CMP ISP_MS
+D In Circuit programming connector 2mm pitch
+$ENDCMP
+#
+$CMP LAN8710A
+D 10/100 Ethernet Phy
+$ENDCMP
+#
+$CMP MCP1700T-3302E_TT
+D 3.3v LDO 250 mA, 6V, Low Quiescent Current
+$ENDCMP
+#
+$CMP MCP1703T-5002E_CB
+D LDO 250 mA, 16V, Low Quiescent Current
+K LDO 250 mA, 16V, Low Quiescent Current
+$ENDCMP
+#
+$CMP USB3320
+D USB Controller
+K USB Controller
+$ENDCMP
+#
+#End Doc Library

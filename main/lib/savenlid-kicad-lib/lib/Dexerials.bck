@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SFK-1445A
+D Fuse holder nano2 5A
+K Fuse holder nano2 5A
+$ENDCMP
+#
+$CMP SFK-2045x
+D Fuse holder nano2 5A
+K Fuse holder nano2 5A
+$ENDCMP
+#
+$CMP SFK-4045
+D Fuse holder nano2 5A
+K Fuse holder nano2 5A
+$ENDCMP
+#
+#End Doc Library

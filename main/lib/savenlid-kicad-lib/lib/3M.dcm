@@ -1,0 +1,69 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2514-6002UB
+D 2x7 pin header 0.1"
+$ENDCMP
+#
+$CMP 929647-01-03-EU
+D 1x3 pin header 0.1"
+$ENDCMP
+#
+$CMP 951102-8622-AR
+D 2 pin header 2mm pitch
+$ENDCMP
+#
+$CMP 951104-8622-AR
+D 4 pin header 2mm pitch
+K 4 pin header 2mm pitch
+$ENDCMP
+#
+$CMP 951214-8622-AR
+D 2x7 pin header 2mm pitch
+K 2x7 pin header 2mm pitch
+$ENDCMP
+#
+$CMP 961102-6404-AR
+D 2 pin header 0.1"
+$ENDCMP
+#
+$CMP 961206-6404-AR
+D OBSOLETE 2x3 pin header 0.1"
+$ENDCMP
+#
+$CMP 961208-6404-AR
+D 2x4 pin header 0.1"
+$ENDCMP
+#
+$CMP 961210-6404-AR
+D 2x5 pin header 0.1"
+$ENDCMP
+#
+$CMP 961212-6404-AR
+D 2x6 pin header 0.1"
+$ENDCMP
+#
+$CMP 961214-6404-AR
+D 2x7 pin header 0.1"
+$ENDCMP
+#
+$CMP 961220-6404-AR
+D 2x10 pin header 0.1"
+$ENDCMP
+#
+$CMP 961240-6404-AR
+D 2x20 pin header 0.1"
+$ENDCMP
+#
+$CMP N2510-6002RB
+D 2x5 pin header 0.1"
+$ENDCMP
+#
+$CMP N2514-6002RB
+D 2x7 pin header 0.1"
+$ENDCMP
+#
+$CMP N2516-6002RB
+D 2x7 pin header 0.1"
+$ENDCMP
+#
+#End Doc Library

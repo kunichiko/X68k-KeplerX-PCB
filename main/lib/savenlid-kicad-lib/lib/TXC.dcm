@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7XZ3200005
+D Crystals 32.768KHz 1.8V -40C +85C
+K Crystals 32.768KHz 1.8V -40C +85C
+$ENDCMP
+#
+#End Doc Library

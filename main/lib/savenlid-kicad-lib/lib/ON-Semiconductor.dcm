@@ -1,0 +1,122 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54
+D Schottky Diode 30V 200mA
+$ENDCMP
+#
+$CMP BAV99
+D 200mA 70V High Conductance Ultra fast double diode
+$ENDCMP
+#
+$CMP BC847BWT1G
+D BJT 100mA 50V NPN
+$ENDCMP
+#
+$CMP BSS123
+D N-Fet 100V  / 0.17A  SOT23
+$ENDCMP
+#
+$CMP D_Schottky
+D Schottky diode
+K diode Schottky
+$ENDCMP
+#
+$CMP FAN7362MX
+D High side gate driver, 1 chan
+$ENDCMP
+#
+$CMP FDG6303N
+D Dual N-Fet 25V  / 0.5A
+$ENDCMP
+#
+$CMP FDMS86200
+D 60V, 45A, 4.8mOhm, Silicon N Channel Power MOS FET
+$ENDCMP
+#
+$CMP FSA4157L6X
+D Low-Voltage SPDT analog Switch 1ohm MicroPak
+$ENDCMP
+#
+$CMP FSA4157P6X
+D Low-Voltage SPDT analog Switch 1-Ohm SC70
+$ENDCMP
+#
+$CMP MBR0520LT1G
+D 20V 500mA Schottky Power Rectifier
+$ENDCMP
+#
+$CMP MBRM110L
+D 20V 500mA Schottky Barrier Rectifier
+$ENDCMP
+#
+$CMP MMBF170
+D N-Channel FET 60V 280mA
+$ENDCMP
+#
+$CMP MMBZ33VALT1G
+D 40V Schottky Barrier Diode
+$ENDCMP
+#
+$CMP MMSD4148T1G
+D Switching Diode
+$ENDCMP
+#
+$CMP NB3N551MNR4G
+D 3.3 V / 5.0 V, Ultra-Low Skew, 1:4 Clock Fanout Buffer
+$ENDCMP
+#
+$CMP NC7S04P5X
+D Tinylogic HS inverter
+$ENDCMP
+#
+$CMP NC7SZ125P5X
+D Tinylogic UHS Buffer with Three state
+$ENDCMP
+#
+$CMP NDS7002A
+D N-Channel FET 60V 280mA
+$ENDCMP
+#
+$CMP NJD2873T4G
+D NPN Silicon DPAK 2A 50V 15W
+K NPN Silicon DPAK 2A 50V 15W
+$ENDCMP
+#
+$CMP NSR0140P2T5G
+D 40V Schottky Barrier Diode
+$ENDCMP
+#
+$CMP NSS1C300ET4G
+D PNP Silicon DPAK 3A 100V 33W
+$ENDCMP
+#
+$CMP NSV1C201MZ4T1G
+D 100V 2A  low Vce NPN Transistor
+$ENDCMP
+#
+$CMP PMEG2005ELD
+D 20V 500mA Schottky Barrier Rectifier
+$ENDCMP
+#
+$CMP SBC857BWT1G
+D NPN Silicon DPAK 2A 50V 15W
+K NPN Silicon DPAK 2A 50V 15W
+$ENDCMP
+#
+$CMP SMBJ43A
+D Unidirectional 43V 1500W Transient Voltage Suppressor
+$ENDCMP
+#
+$CMP SMCJ22A
+D Bidirectional 1500W Transient Voltage Suppressor
+$ENDCMP
+#
+$CMP SMCJ43A
+D Bidirectional 43V 1500W Transient Voltage Suppressor
+$ENDCMP
+#
+$CMP SS13FL
+D Schottky Barrier Rectifier
+$ENDCMP
+#
+#End Doc Library

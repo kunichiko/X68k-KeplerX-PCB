@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT25DF081A-SSH-T
+D Flash Memory 8M, 2.7-3.6V, 100Mhz Serial Flash
+$ENDCMP
+#
+$CMP AT45DB161E-SSHFHA-T
+D IC FLASH 16MBIT 85MHZ 8SOIC
+$ENDCMP
+#
+#End Doc Library

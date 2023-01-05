@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CS160808-1R0K
+D SRR6040A Series - Shielded Power Inductors
+$ENDCMP
+#
+$CMP MOV-10D471K
+D Metal Oxide Varistor 300V RMS
+$ENDCMP
+#
+$CMP PTV09A-4030F-B103
+D PTV09 Series - 9 mm Potentiometer
+$ENDCMP
+#
+$CMP SDR0302-6R8ML
+D induktorer 6.8uH 20% SMD 0302
+$ENDCMP
+#
+$CMP SRR6040A-330M
+D SRR6040A Series - Shielded Power Inductors
+$ENDCMP
+#
+#End Doc Library

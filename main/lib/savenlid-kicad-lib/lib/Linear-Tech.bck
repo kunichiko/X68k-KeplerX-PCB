@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC2247IUH
+D 14-Bit 40Msps  Low Power 3V ADC
+$ENDCMP
+#
+$CMP LTC2862HDD-1-PBF
+D RS485/RS422 Transceiver
+$ENDCMP
+#
+$CMP LTC6362IDD
+D Differential Op Amp/SAR ADC Driver
+$ENDCMP
+#
+#End Doc Library

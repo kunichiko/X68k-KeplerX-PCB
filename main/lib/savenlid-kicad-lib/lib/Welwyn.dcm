@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCF0805-13-27KBT1
+D 27Kohm SMD 0.1W  0.1% 0805 5ppm
+K 27Kohm
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1758076
+D Pluggable Terminal Blocks 8 Pos 5.08mm pitch Through Hole Header
+K Pluggable Terminal Blocks 8 Pos 5.08mm pitch Through Hole Header
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP 1762004
+D Pluggable Terminal Blocks 5 Pos 5.08mm pitch Through Hole Header
+K Pluggable Terminal Blocks 5 Pos 5.08mm pitch Through Hole Header
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+$CMP M50-3500542
+D FFC/FPC Connector, Right-Angle 10p
+K FFC/FPC Connector, Right-Angle 10p
+F http://www.molex.com/molex/products/datasheet.jsp?part=active/0512811094_FFC_FPC_CONNECTORS.xml&channel=Products&Lang=en-US
+$ENDCMP
+#
+#End Doc Library

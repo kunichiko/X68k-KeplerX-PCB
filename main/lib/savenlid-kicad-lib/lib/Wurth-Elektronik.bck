@@ -1,0 +1,64 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 61302021121
+D 2x10 pin header 0.1"
+$ENDCMP
+#
+$CMP 64900621122
+D 2x3, 4.20mm Male Dual Row Vertical Header WR-MPC4
+$ENDCMP
+#
+$CMP 696108003002
+D Fuse holder PC MOUNT 5 X 20 MM
+$ENDCMP
+#
+$CMP 742792097
+D 0805 1A ferrite chip bead 1.5Kohms Wurth
+$ENDCMP
+#
+$CMP 744031004
+D 3.8x3.8mm 4.7uH DC-1.2A  20% TDK
+$ENDCMP
+#
+$CMP 744052009
+D 5.8x5.8mm 9uH DC-1.25A  30% TDK
+$ENDCMP
+#
+$CMP 744212101
+D Common Mode Line Filter
+$ENDCMP
+#
+$CMP 7443551181
+D 7x7mm 4.7uH DC-2A  20% TDK
+K 7x7mm 4.7uH 2A
+$ENDCMP
+#
+$CMP 74439346056
+D 7x7mm   5.6uH   6.9A  15mOhm  20%  Wurth-Elektronik
+$ENDCMP
+#
+$CMP 7447060
+D WE-FI Leaded Toroidal Line Choke
+$ENDCMP
+#
+$CMP 744774222
+D Wurth Elektronik -PD2 SMD Power Inductor
+$ENDCMP
+#
+$CMP 750817020
+D Transformer, 1 primary, 2 secondary
+$ENDCMP
+#
+$CMP 760802122
+D PFC Choke
+$ENDCMP
+#
+$CMP 760805410
+D PFC Choke
+$ENDCMP
+#
+$CMP 824021
+D Dual TVS Diode Array WE-TVS  SOT23-3
+$ENDCMP
+#
+#End Doc Library

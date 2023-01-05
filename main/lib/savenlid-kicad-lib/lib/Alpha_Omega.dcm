@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AON6560
+D 30V N-Channel AlphaMos 200A 0.68m Ohms
+$ENDCMP
+#
+#End Doc Library

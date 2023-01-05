@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2309NZ-1HPGG
+D 9  output clock buffer
+$ENDCMP
+#
+$CMP 5PB1108PGGI
+D 9  output clock buffer
+$ENDCMP
+#
+#End Doc Library

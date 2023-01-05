@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RK73H2BTTD47R0F
+D 1206 47   1%   0.25W KOA
+$ENDCMP
+#
+$CMP RK73H2ETTD1001F
+D 1210  1K    1%   0.5W   KOA
+$ENDCMP
+#
+#End Doc Library

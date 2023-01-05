@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 961240-6404-AR
+D 2x20 pin header 0.1"
+$ENDCMP
+#
+$CMP 961240-6404-AR_RPI3
+D 2x20 pin header 0.1"
+$ENDCMP
+#
+#End Doc Library

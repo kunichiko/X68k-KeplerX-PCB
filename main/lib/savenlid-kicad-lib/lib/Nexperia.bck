@@ -1,0 +1,72 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAS28_235
+D High-speed double diode
+$ENDCMP
+#
+$CMP BAS35_215
+D DUAL  DIODE SOT23-2 Common Anode
+$ENDCMP
+#
+$CMP BAS516_115
+D High-speed switching diode
+$ENDCMP
+#
+$CMP BAT74V_115
+D Schottky barrier double diode
+$ENDCMP
+#
+$CMP BAT74_215
+D Dual barrier Schottky Diode
+$ENDCMP
+#
+$CMP BC846BW_115
+D NPN bipolar, 65V 100mA
+$ENDCMP
+#
+$CMP BC856B_215
+D PNP general purpose, 65V 200mA
+$ENDCMP
+#
+$CMP BC857BW_115
+D PNP general purpose, 45V 100mA
+$ENDCMP
+#
+$CMP BCX56-10_115
+D NPN bipolar, 65V 100mA
+$ENDCMP
+#
+$CMP BSS138PW115
+D 60V, 45A, 4.8mOhm, Silicon N Channel Power MOS FET
+$ENDCMP
+#
+$CMP BZA462A_115
+D Quad ESD suppressor
+$ENDCMP
+#
+$CMP BZX84J-B12_115
+D Zener Diode 12V
+$ENDCMP
+#
+$CMP BZX84J-B15_115
+D Zener Diode 15.3V
+$ENDCMP
+#
+$CMP BZX84J-B7V5_115
+D Zener Diode 7.5V
+$ENDCMP
+#
+$CMP PESD3V3S2UQ_115
+D Double ESD protection diodes in SOT663 package
+$ENDCMP
+#
+$CMP PMEG6002EBF
+D 0.2 A very low VF MEGA Schottky barrier rectifier  SC-79
+$ENDCMP
+#
+$CMP SMBJ5352B-TP
+D DO214AA Zener diode  15V 5W
+K DO214AA Zener diode  15V 5W
+$ENDCMP
+#
+#End Doc Library

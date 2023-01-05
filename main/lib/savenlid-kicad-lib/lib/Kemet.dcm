@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C0402C222F4GACTU
+D 0402 2.2nF 16V C0G  1% Kemet
+K 0402 2.2nF 16V C0G  1% Kemet
+$ENDCMP
+#
+$CMP C0603C153F3GACTU
+D 0603 15nF 25V NP0 1% Kemet
+K 0603 15nF 25V NP0 1% Kemet
+$ENDCMP
+#
+$CMP R46KI322000M2K
+D Polypropylene Film EMI Suppression Capacitors 0.22u 275VAC
+$ENDCMP
+#
+#End Doc Library

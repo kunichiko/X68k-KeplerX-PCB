@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CBMF1608T100K
+D 0603 10uh   115mA Taiyo_Yunden
+$ENDCMP
+#
+$CMP CBMF1608T470K
+D 0603 47uh  50mA Taiyo_Yuden
+$ENDCMP
+#
+#End Doc Library

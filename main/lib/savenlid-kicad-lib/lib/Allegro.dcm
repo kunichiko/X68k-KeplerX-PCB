@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS781KLR-150B-T
+D 100V, 1A/2A Peak, 1/2 Bridge Driver with 7V UVLO, TTL INPUT
+$ENDCMP
+#
+#End Doc Library

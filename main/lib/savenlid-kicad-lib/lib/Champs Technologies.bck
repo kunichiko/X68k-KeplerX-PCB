@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 80R2-30AC-3208-1M2
+D Transformer, 1 primary, 2 secondary
+$ENDCMP
+#
+$CMP PQI26-42R-12-LTC
+D Transformer, 1 primary, 2 secondary
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRM2512-FX-1000ELF
+D 2512  100ohm 1% 2W Bourns
+$ENDCMP
+#
+$CMP CRM2512-FX-33R0ELF
+D 2512  33ohm 1% 2W Bourns
+$ENDCMP
+#
+$CMP ERJ-1TYJ201U
+D 2512 200 5% 1W Panasonic
+$ENDCMP
+#
+#End Doc Library

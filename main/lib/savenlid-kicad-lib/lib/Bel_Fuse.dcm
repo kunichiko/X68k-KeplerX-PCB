@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0678L9300-02
+D Fuse holder PC MOUNT 5 X 20 MM
+$ENDCMP
+#
+$CMP SMM_30
+D Fuse holder PC MOUNT 5 X 20 MM
+$ENDCMP
+#
+#End Doc Library

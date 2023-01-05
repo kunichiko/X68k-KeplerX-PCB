@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RG2012L-331-L-T05
+D 330ohm SMD 1/8W 0.01% 0805 2ppm
+K 330ohm
+$ENDCMP
+#
+$CMP RG2012L-333-L-T05
+D 33Kohm SMD 1/8W 0.01% 0805 2ppm
+K 33Kohm
+$ENDCMP
+#
+#End Doc Library

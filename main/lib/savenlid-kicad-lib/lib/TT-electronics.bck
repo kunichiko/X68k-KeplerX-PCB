@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LRMAP3920B-R0005FT
+D Current Sense Resistors - SMD .5 mOhm 5W 1% Tol +/- 70 ppm
+K Current Sense Resistors - SMD .5 mOhm 5W 1% Tol +/- 70 ppm
+$ENDCMP
+#
+$CMP LRMAP3920B-R001JT
+D Current Sense Resistors - SMD  1 mOhm 5W 1% Tol +/- 70 ppm
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148WS-E3-08
+D Vishay 1.5A  25V schottky
+K Vishay schottky 1.5A 25V
+$ENDCMP
+#
+$CMP 440LD22-R
+D AC Line Rated Ceramic Disc Capacitors, Class X1, 760 VAC / Class Y1, 500 VAC
+$ENDCMP
+#
+$CMP BYS10-25-E3
+D Vishay 1.5A  25V schottky
+K Vishay schottky 1.5A 25V
+$ENDCMP
+#
+$CMP BZX384C12-E3-08
+D Zener Diode 12V
+$ENDCMP
+#
+$CMP BZX84C2V4-E3-08
+D Vishay 2.4V  300mW SOT23-3 Zener
+$ENDCMP
+#
+$CMP IDC5020ER680M
+D 68uH 1.5A 200mOhm, Non shielded
+$ENDCMP
+#
+$CMP IHLP2525EZER5R6M01
+D Low-Profile, High-Current IHLP® Inductors
+$ENDCMP
+#
+$CMP IHLP3232DZER330M11
+D 33u Low-Profile, High-Current IHLP® Inductors
+$ENDCMP
+#
+$CMP IHLP4040DZER5R6M01
+D HLP® Commercial Inductors, High Saturation Series 5.6uH / 16A
+$ENDCMP
+#
+$CMP V25PN60-M3_86A
+D Power Schottky Rectifier
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EBWA-MR0010FET
+D 4120 1m 1% 4W Current Sense Ohmite
+$ENDCMP
+#
+$CMP ERJ-M1WTF1M0U
+D 2512 1m 1% 1W Current Sense Panasonic
+$ENDCMP
+#
+$CMP ERJ-M1WTF2M0U
+D 2512 2m 1% 1W Current Sense Panasonic
+$ENDCMP
+#
+$CMP LRMAP3920B-R0005FT
+D Current Sense Resistors - SMD .5 mOhm 5W 1% Tol +/- 70 ppm
+K Current Sense Resistors - SMD .5 mOhm 5W 1% Tol +/- 70 ppm
+$ENDCMP
+#
+$CMP LRMAP3920B-R001JT
+D Current Sense Resistors - SMD  1 mOhm 5W 1% Tol +/- 70 ppm
+$ENDCMP
+#
+#End Doc Library

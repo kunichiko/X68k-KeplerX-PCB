@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PE42420D-Z
+D UltraCMOS® SPDT RF Switch  100–6000 MHz
+$ENDCMP
+#
+$CMP PE43711A-Z
+D RF Digital Step Attenuator, 9 kHz–6 GHz
+$ENDCMP
+#
+#End Doc Library

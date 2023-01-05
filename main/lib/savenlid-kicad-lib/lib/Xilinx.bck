@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Xilinx_JTAG
+D Xilinx JTAG connector 2x7 2mm pitch
+$ENDCMP
+#
+$CMP Xilinx_MM
+D Xilinx JTAG connector 2x7 2mm pitch
+$ENDCMP
+#
+#End Doc Library

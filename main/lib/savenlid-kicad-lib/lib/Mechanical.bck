@@ -1,0 +1,59 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4211548901
+D STB ETV Alu-tube
+$ENDCMP
+#
+$CMP 4P_1mm27_edge
+D 4 pin 1.27mm edge fingers
+$ENDCMP
+#
+$CMP 6P_1mm27_edge
+D 6 pin PCB edge fingers
+$ENDCMP
+#
+$CMP FM_ROUND
+D Fiducial Mark round
+$ENDCMP
+#
+$CMP FM_SQUARE
+D Fiducial Mark Square
+$ENDCMP
+#
+$CMP Inner_Coil
+D Fiducial Mark round
+$ENDCMP
+#
+$CMP Outer_Coil
+D Fiducial Mark round
+$ENDCMP
+#
+$CMP RD6TH3
+D 3mm TH with 6mm pad unmasked
+$ENDCMP
+#
+$CMP ROMB_1
+D Fiducial Mark round
+$ENDCMP
+#
+$CMP SHORT_0MM3
+D 1206 1R   1%   0.25W KOA
+$ENDCMP
+#
+$CMP SHORT_1206
+D 1206 1R   1%   0.25W KOA
+$ENDCMP
+#
+$CMP SHORT_1MM7
+D 1206 1R   1%   0.25W KOA
+$ENDCMP
+#
+$CMP TH2mm
+D Trough  Hole 2mm
+$ENDCMP
+#
+$CMP TH_RD_3.2X6.4_VIAS
+D Mounting Hole 3.2 x 6.4 with vias
+$ENDCMP
+#
+#End Doc Library

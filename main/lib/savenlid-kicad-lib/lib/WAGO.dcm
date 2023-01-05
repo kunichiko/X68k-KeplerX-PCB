@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2092-1424
+D 4 pin header 2mm pitch
+K 4 pin header 2mm pitch
+$ENDCMP
+#
+$CMP 951104-8622-AR
+D 4 pin header 2mm pitch
+K 4 pin header 2mm pitch
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# LTST-C191TBKT
+#
+DEF LTST-C191TBKT LED 0 40 Y N 1 F N
+F0 "LED" 0 100 50 H V C CNN
+F1 "LTST-C191TBKT" 0 -100 50 H V C CNN
+F2 "Liteon:C191" -100 0 50 H I C CNN
+F3 "" 0 100 50 H V C CNN
+F4 "Liteon" 0 -100 60 H I C CNN "Manufacturer"
+F5 "Blue" 0 -200 60 H V C CNN "Color"
+$FPLIST
+ C191
+$ENDFPLIST
+DRAW
+P 2 0 1 0  -50 50  -50 -50 N
+P 3 0 1 0  -80 -25  -125 -65  -120 -40 N
+P 3 0 1 0  -65 -40  -110 -80  -105 -55 N
+P 3 0 1 0  50 50  -50 0  50 -50 F
+X A A 200 0 150 L 40 40 1 1 P
+X C C -200 0 150 R 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

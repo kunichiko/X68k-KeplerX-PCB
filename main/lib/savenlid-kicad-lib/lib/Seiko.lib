@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# CPH3225A
+#
+DEF CPH3225A C 0 40 N N 1 F N
+F0 "C" 0 400 50 H V C CNN
+F1 "CPH3225A" 0 300 50 H V C CNN
+F2 "Seiko:supercap_32x25" 0 200 50 H I C CNN
+F3 "https://www.sii.co.jp/en/me/datasheets/chip-capacitor/cph3225a/" 0 200 20 H I C CNN
+F4 "Seiko Instruments" 0 200 50 H I C CNN "Manufacturer"
+F5 "11000u / 3.3V" -25 125 50 H V C CNN "Rating"
+DRAW
+P 2 0 1 0 -50 0 -25 0 N
+P 2 0 1 0 -25 50 -25 -50 N
+P 2 0 1 0 25 50 25 -50 N
+P 2 0 1 0 50 0 25 0 N
+X 1 1 -100 0 50 R 50 50 1 1 P
+X 2 2 100 0 50 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
