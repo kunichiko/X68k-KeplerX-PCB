@@ -6900,7 +6900,7 @@
   (no_connect (at 130.81 269.24) (uuid 50a53d7a-b46b-44bf-b913-ffb94d8b1a64))
   (no_connect (at 734.06 129.54) (uuid 514df7c3-0d82-40fa-a21a-e1130d407ce0))
   (no_connect (at 702.31 322.58) (uuid 535a70b0-9010-4e03-8fde-f9acca935ed9))
-  (no_connect (at 193.04 200.66) (uuid 535a70b0-9010-4e03-8fde-f9acca935ed9))
+  (no_connect (at 193.04 200.66) (uuid 535a70b0-9010-4e03-8fde-f9acca935eda))
   (no_connect (at 223.52 359.41) (uuid 53a3de32-85ea-4176-9206-465b417d4f6c))
   (no_connect (at 387.35 111.76) (uuid 590735fa-7646-429e-ac3d-f01a19df175a))
   (no_connect (at 678.18 129.54) (uuid 59b77772-be8d-4152-8bc2-27c075b0d3ea))
