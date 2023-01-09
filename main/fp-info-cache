@@ -1,4 +1,4 @@
-27885016241317555
+27886689346069160
 Air_Coils_SML_NEOSID
 Neosid_Air-Coil_SML_1turn_HDM0131A
 Neosid, Air-Coil, SML, 1turn, HDM0131A,
@@ -117620,6 +117620,13 @@ GZC9-B 9-pin vacuum tube socket, with tube
 0
 9
 9
+x68000-ext
+AudioJack_3.5_pj313d-smt
+3.5mm jack, HK RTL PJ313D
+
+0
+6
+3
 x68000-ext
 CS8421-CZZ
 
