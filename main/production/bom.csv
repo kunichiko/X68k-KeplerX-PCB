@@ -10,7 +10,7 @@ C30,C_1206_3216Metric,1,22uF,
 "C8, C9",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,2.2uF,
 "D1, D2, D6, D7, D9",D_1206_3216Metric_Pad1.42x1.75mm_HandSolder,5,CUHS20S30,
 "D10, D8",D_0603_1608Metric_Pad1.05x0.95mm_HandSolder,2,D_TVS,
-"D11, D3, D4, D5",LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,4,Led_Small,
+"D11, D3, D4, D5",LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,4,Led_Small,C72043
 "FB1, FB2, FB3",L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,3,BK2125HS750-T,
 "H1, H2",MountingHole_3.7mm,2,MountingHole,
 "H3, H4",MountingHole_2.7mm_M2.5,2,MountingHole,
@@ -20,10 +20,10 @@ J10,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04,
 J11,microSD_HC_Hirose_DM3AT-SF-PEJM5,1,Micro_SD_Card_Det_Hirose_DM3AT,
 J12,PinHeader_1x02_P2.54mm_Vertical,1,Filter Sel,
 "J2, J7, J9",PinHeader_1x02_P2.54mm_Vertical,3,Conn_01x02_Male,
-J3,AudioJack_3.5_pj313d-smt,1,MIDI OUT,
+J3,AudioJack_3.5_pj313d-smt,1,MIDI OUT,C668608
 J4,Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles,1,RasPI_IO_Header_B+,
-J5,AudioJack_3.5_pj313d-smt,1,AudioJack3,
-J6,AudioJack_3.5_pj313d-smt,1,MIDI IN,
+J5,AudioJack_3.5_pj313d-smt,1,AudioJack3,C668608
+J6,AudioJack_3.5_pj313d-smt,1,MIDI IN,C668608
 J8,PinHeader_2x05_P2.54mm_Vertical,1,Conn_02x05_Odd_Even,
 "JP1, JP10",PinHeader_1x02_P2.54mm_Vertical,2,Jumper_NC_Small,
 "JP11, JP7, JP9",SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm,3,SolderJumper_3_Bridged12,
@@ -42,10 +42,10 @@ R15,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,120,
 "R24, R6, R7, R9",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,4,1K,
 R25,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,18k,
 R26,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,33k,
-"RP1, RP2, RP3, RP4, RP7",R_Array_Convex_4x0603,5,4.7k,
-RP10,R_Array_Convex_4x0603,1,47,
-"RP5, RP6",R_Array_Convex_4x0603,2,270,
-"RP8, RP9",R_Array_Convex_4x0603,2,47k,
+"RP1, RP2, RP3, RP4, RP7",R_Array_Convex_4x0603,5,4.7k,C700514
+RP10,R_Array_Convex_4x0603,1,47,C327045
+"RP5, RP6",R_Array_Convex_4x0603,2,270,C425067
+"RP8, RP9",R_Array_Convex_4x0603,2,47k,C779384
 "SW1, SW2",Pin_Header_Straight_1x03,2,SWITCH_INV,
 "TP1, TP4, TP5",TestPoint_THTPad_2.0x2.0mm_Drill1.0mm,3,GND,
 "TP2, TP3",TestPoint_THTPad_2.0x2.0mm_Drill1.0mm,2,TestPoint,
@@ -59,10 +59,10 @@ U14,MODULE_P0082_TOPMOUNT,1,P0082(DE0-NANO),
 U15,XDCR_PLT133_T10W,1,PLR135-T10,
 U16,TSSOP-20_4.4x6.5mm_P0.65mm,1,PCM5102A,
 "U17, U21",SOT-23-5_HandSoldering,2,XC6201P332MR-G,
-U18,SMDIP-6_W7.62mm,1,H11L1,
+U18,SMDIP-6_W9.53mm,1,H11L1,C78589
 "U19, U20",VSSOP-20_3x5mm_P0.5mm,2,TC7MPB9307F,
 U2,SOT-223-3_TabPin2,1,LM1117GS-3.3,
-U22,SOP-8_5.28x5.23mm_P1.27mm,1,PCA9515DP,
+U22,TSSOP-8_3x3mm_Pitch0.65mm,1,PCA9515DP,C129512
 U23,TSSOP-20_4.4x6.5mm_Pitch0.65mm,1,74LVC541A,
 U3,QFN-16-1EP_4x4mm_Pitch0.65mm,1,INA3221,
 "U4, U5, U6, U7, U8, U9",SSOP-48_7.5x15.9mm_Pitch0.635mm,6,74AHC16374,
