@@ -1,4 +1,4 @@
-27886692607815128
+27890210518047916
 Air_Coils_SML_NEOSID
 Neosid_Air-Coil_SML_1turn_HDM0131A
 Neosid, Air-Coil, SML, 1turn, HDM0131A,
@@ -117698,6 +117698,13 @@ MODULE_P0082_TOPMOUNT
 84
 84
 x68000-ext
+MST22D18G2-SlideSwitch-DPDT
+
+
+0
+6
+6
+x68000-ext
 QFN-16-1EP_4x4mm_Pitch0.65mm_with_hole
 16-Lead Plastic Quad Flat, No Lead Package (ML) - 4x4x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
 QFN 0.65
@@ -117759,6 +117766,13 @@ x68000-ext-cardedge
 
 0
 100
+100
+x68000-ext
+x68000-ext-cardedge-fit-with-pad
+
+
+0
+200
 100
 x68000-ext
 x68000-ext-cardedge-keplerx
