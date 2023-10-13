@@ -23254,7 +23254,7 @@
     (property "Reference" "R24" (at 618.49 242.57 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1k" (at 618.49 245.11 90)
+    (property "Value" "51" (at 618.49 245.11 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 618.49 247.65 0)
