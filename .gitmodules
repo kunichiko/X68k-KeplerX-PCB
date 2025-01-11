@@ -10,3 +10,6 @@
 [submodule "lib/kicad"]
 	path = lib/kicad
 	url = https://github.com/savenlid/kicad.git
+[submodule "lib/KiCAD-RP-Pico"]
+	path = lib/KiCAD-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git
